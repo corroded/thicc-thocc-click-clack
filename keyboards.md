@@ -10,6 +10,9 @@
   - Possibly the first iteration of the split keyboard
   - Interesting to note that the keys were slightly changed from QWERTY but they eventually made QWERTY layout ones
   - 🔗 [Maltron legacy archives](https://www.maltron.com/legacy-maltron-keyboards--archive.html)
+- **1984 - Topre switch patent**
+  - Topre patents their own switch in the US
+  - 🔗 [Topre patent (PDF)](https://patentimages.storage.googleapis.com/1e/cc/4d/8fa5cec90a7ee4/US4482932.pdf)
 - **2015 - Clojure.core/typing by Matt Adereth** 
   - Matt Adereth's Clojure conf talk on some keyboard history and how he built the Dactyl keyboard
   - ▶️ [clojure.core/typing](https://www.youtube.com/watch?v=uk3A41U0iO4) 
