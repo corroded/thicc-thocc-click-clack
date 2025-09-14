@@ -8,6 +8,11 @@ I believe that there is so much more content as this rabbit hole goes very deep,
 
 I've organised this as much as I could by categorising them.
 
+### Legend: 
+
+- ▶️: External video link
+- 🔗: External link to a page
+
 ### Ergonomics
 
 Mostly science papers on ergonomics that I have read. Ergonomics usually allude to hand positioning, prevention of injuries like RSI (repetitive strain injury) or CTS (carpal tunnel syndrome).
