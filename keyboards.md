@@ -1,5 +1,8 @@
 # Keyboards
 
+- **1896 - Sholes XPMCH Typewriter patent**
+  - Last patent filed by Sholes to improve on the QWERTY layout
+  - 🔗 [Sholes patent for XPMCH typewriter](https://patents.google.com/patent/US568630A/en)
 - **1980 - Maltron**
   - Possibly the first iteration of the split keyboard
   - Interesting to note that the keys were slightly changed from QWERTY but they eventually made QWERTY layout ones
