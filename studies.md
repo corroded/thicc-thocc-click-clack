@@ -16,3 +16,7 @@ Musculoskeletal Symptoms](https://ergo.human.cornell.edu/Conferences/HFES02/GTTa
   - Measured **carpal tunnel pressure in vivo** while typing at various wrist angles.
   - *Finding*: Wrist extension and radial deviation significantly increase pressure; neutral/split layouts reduce risk.
   - [Effect of Wrist Posture on Carpal Tunnel Pressure while Typing](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jor.20599)
+- **2011 - Yasuoka, Koichi; Yasuoka, Motoko**
+  - Paper trying to prove that QWERTY was NOT meant to slow typists down
+  - *Conclusion*: QWERTY was initially for use for telegraphers who needed to keep up with dictators so slowing them down didn't make sense.
+  - [On the Prehistory of QWERTY](https://repository.kulib.kyoto-u.ac.jp/server/api/core/bitstreams/dc434be9-80cd-499b-a984-f9fa35954c3b/content)
