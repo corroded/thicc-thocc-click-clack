@@ -13,9 +13,9 @@
 - **1984 - Topre switch patent**
   - Topre patents their own switch in the US
   - 🔗 [Topre patent (PDF)](https://patentimages.storage.googleapis.com/1e/cc/4d/8fa5cec90a7ee4/US4482932.pdf)
+- **2014 - Glove80: Rethinking split contoured ergonomic keyboard**
+  - Glove80's eight(!!!) year journey from researching to prototyping and launching in Kickstarter
+  - 🔗 [History of the Glove80](https://kbd.news/Glove80-Rethinking-split-contoured-ergonomic-keyboard-1796.html) 
 - **2015 - Clojure.core/typing by Matt Adereth** 
   - Matt Adereth's Clojure conf talk on some keyboard history and how he built the Dactyl keyboard
   - ▶️ [clojure.core/typing](https://www.youtube.com/watch?v=uk3A41U0iO4) 
-- **2022 - Glove80: Rethinking split contoured ergonomic keyboard**
-  - Glove80's eight(!!!) year journey from researching to prototyping and launching in Kickstarter
-  - 🔗 [History of the Glove80](https://kbd.news/Glove80-Rethinking-split-contoured-ergonomic-keyboard-1796.html) 
