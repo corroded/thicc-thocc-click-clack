@@ -19,3 +19,6 @@
 - **2015 - Clojure.core/typing by Matt Adereth** 
   - Matt Adereth's Clojure conf talk on some keyboard history and how he built the Dactyl keyboard
   - ▶️ [clojure.core/typing](https://www.youtube.com/watch?v=uk3A41U0iO4) 
+- **2025 - Posture Atelier's Baseform**
+  - Modular wireless split - can shrink down from 54 to 36 keys
+  - [Baseform](https://posture.works/baseform/)
